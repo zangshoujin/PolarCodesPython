@@ -6,7 +6,7 @@ import construction
 import plotbler
 import snr_generate
 
-
+jinjin测试
 # 初始值预设
 run_num=1000
 
